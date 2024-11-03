@@ -1,0 +1,37 @@
+{
+  "common": {
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "search": "Rechercher"
+  },
+  "document": {
+    "title": "Documents",
+    "new": "Nouveau Document",
+    "category": "Catégorie",
+    "code": "Code",
+    "date": "Date d'archivage",
+    "description": "Description",
+    "files": "Fichiers",
+    "relatedDoc": "Document associé",
+    "upload": "Télécharger des fichiers",
+    "share": "Partager le document"
+  },
+  "user": {
+    "title": "Utilisateurs",
+    "new": "Nouvel utilisateur",
+    "role": "Rôle",
+    "roles": {
+      "admin": "Administrateur",
+      "editor": "Éditeur",
+      "user": "Utilisateur standard"
+    }
+  }
+}

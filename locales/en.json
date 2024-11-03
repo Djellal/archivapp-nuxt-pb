@@ -1,0 +1,37 @@
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search"
+  },
+  "document": {
+    "title": "Documents",
+    "new": "New Document",
+    "category": "Category",
+    "code": "Code",
+    "date": "Archive Date",
+    "description": "Description",
+    "files": "Files",
+    "relatedDoc": "Related Document",
+    "upload": "Upload Files",
+    "share": "Share Document"
+  },
+  "user": {
+    "title": "Users",
+    "new": "New User",
+    "role": "Role",
+    "roles": {
+      "admin": "Administrator",
+      "editor": "Editor",
+      "user": "Regular User"
+    }
+  }
+}
